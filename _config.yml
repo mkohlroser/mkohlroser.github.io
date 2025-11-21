@@ -25,3 +25,5 @@ sphinx:
     
 include:
   - Project_1.html
+  - "*.html"
+
