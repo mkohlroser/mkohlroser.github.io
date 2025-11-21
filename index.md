@@ -2,5 +2,7 @@
 
 Welcome! Work in progress.
 
-[View My Project](Project_1.html)
+[Project 1](Project_1.html)
+[Project 2](Project_2.html)
+
 
