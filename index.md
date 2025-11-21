@@ -3,7 +3,7 @@
 ## Projects
 
 - {doc}`Project_1`
-- {doc}`Project_2`
+- {doc}`project_2`
 
 More coming soon!
 
